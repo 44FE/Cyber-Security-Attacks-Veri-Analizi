@@ -46,4 +46,4 @@ Cyber Security Attacks Veri Seti: [https://www.kaggle.com/datasets/mlomuscio/pok
 * En fazla saldırı yapılan ülke Manipur olarak gözlemlenmiştir.
 * Saldırıların yıllara göre dağılımına bakıldığında en fazla saldırının 2022 ' de yapıldığı tespit edilmiştir.
 
-Global AI Hub Ekibine  tüm süreçte içtenlikle desteklerinden ötürü çok teşekkür ederim.
+Global AI Hub Ekibine bizlere vermiş oldukları desteklerinden ötürü çok teşekkür ederim.
